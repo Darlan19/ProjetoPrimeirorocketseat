@@ -11,9 +11,9 @@ function toggleMode() {
 
     const img = document.querySelector('#profile img')
     if(html.classList.contains('light')){
-        img.setAttribute("src", "./assets/theme=lightmode.png")
+        img.setAttribute("src", "./assets/theme=lightmode 1.png");
     }
     else{
-        img.setAttribute("src", "./assets/Theme=Dark mode.png")
+        img.setAttribute("src", "./assets/Theme=Dark mode.png");
     }
 }
